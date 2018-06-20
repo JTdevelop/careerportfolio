@@ -1,3 +1,44 @@
 <resources>
   <string name="app_name">career-portfolio</string>
+  
+  <string name="Reflections">
+Week1
+So excited to complete the first week. Brain is spinning trying to learn the new concepts. Feel like a monkey trying to play football.
+Week2
+Really excited
+Week3
+Confused and discouraged, buttoning down and working even harder.
+Week4
+Desert of Despair
+Week5
+Working from sunrise to sunset on code, also dreaming about code, even in dreams I'm not very good at coding yet. "</string>
+
+  <string name="Qualitative_and_Quantitative">
+    ********3 quantitative accomplishments********************
+Utilized Salesforce to drive Revenue Increase of 125% YOY - Critical Thinking
+Obtained Originator License, DE, BS, - Attention to Detail
+Developed a Tickler System to manage sales lead pipeline. - Creativity
+
+
+********3 qualitative features****************************
+Worked in a large team of unrelated parties trying to accomplish the same goal every day. - Teamwork and Communication
+Mentored co-workers and teammates who had questions or needed help. - Empathize
+  </string>
+
+  <string name="Creativity_Logic">
+    ****Write a paragraph on how you balnce your creativity and logic in your passion projects.*****
+
+For logic I like to read a lot about new and interesting subjects.
+Subjects that interest me are Technology, Computer Science, Astronomy, Physics, Philosophy, All the Science.
+For creativity I like to practic Jiu-Jitsu, Archery, and Painting.
+  </string>
+
+  <string name="Elevator_Pitch">
+    My name is Justin Torrez. I\'m a student at Deep Dive Coding Utilizing new technologies to benefit people.
+
+I\'m interested in helping people to save time by reducing the amount of decisions and or errors in their everyday lives.
+
+After the Cohort I'd like to learn more about AI and Machine Learning. What are you working on?
+  </string>
+
 </resources>

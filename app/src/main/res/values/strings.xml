@@ -2,18 +2,46 @@
   <string name="app_name">career-portfolio</string>
   
   <string name="Reflections">
+    // Reflections from the Java | Android | Salesforce cohort 4
 Week1
-So excited to complete the first week. Brain is spinning trying to learn the new concepts. Feel like a monkey trying to play football.
+    So excited to get to class early every day. Everything is new and it seems like right now
+    there is the biggest mountain before me that I\'ve ever had to climb.
+    Every night my brain is spinning trying to learn the new concepts and grasp everything
+    I\'ve been exposed to thus far. I Feel like a monkey trying to play chess.
 Week2
-Really excited
+    The excitement is building each and every day. I\'m becoming vaguely more familiar with the concepts.
+    My syntax is still really shaky. I can\'t write any Java without my hand being held. I am struggling
+    with even the most basic of things. This is a different style of learning that\'s not inherently comfortable.
+    This is a challenging environment built to test our ability to focus, learn, and adapt.
+    I\'m loving to opportunity to learn new skills and this really seems like an environment where you
+    are rewarded for problem solving, critical thinking, and ability to continuously improve.
 Week3
-Confused and discouraged, buttoning down and working even harder.
+    This week has been most Confusing and sometimes discouraging, I feel like I\'m not grasping the material
+    at a level that I should be or as quickly as I\'m used to in other subjects. My focus has been on buttoning down and working even harder.
+    I have been working on Reading, Practicing, and Classroom time from sun up to sun down.
 Week4
-Desert of Despair
+    Desert of Despair. I realize that I\'ve got so much to learn and will never have the time to learn
+    as much as I want to. It would literally take me lifetimes worth of time dedicated to nothing
+    but coding and learning and even then I still wouldn't be able to keep up with just the new changes
+    and technologies that are out there. I also realize I could be training for a job 5 years into
+    the future that doesn't even exist today.
 Week5
-Working from sunrise to sunset on code, also dreaming about code, even in dreams I'm not very good at coding yet. "</string>
+    Last week Friday we were given our first test, which consisted of the following 3 practical programming problems:
+    1.) Clock Angles
+    2.) Staircase
+    3.) Leaderboard
+
+Working from sunrise to sunset on coding, also dreaming about code, even in dreams I'm not very good at coding yet.
+    I'm able to complete some CodingBat challenges now. Becomming slightly more familiar with Java Every Day.
+    We starting learning about Back-end Java programming. We've used Spring and Derby so far.
+    The back-end seems marginally easier than front-end for now. Perhaps simply because we haven't
+    gone too deep into it yet.
+    We started learning about Multi-Threaded programming in Java. This is a pretty tough concept to
+    grasp.
+    "</string>
 
   <string name="Qualitative_and_Quantitative">
+
     ********3 quantitative accomplishments********************
 Utilized Salesforce to drive Revenue Increase of 125% YOY - Critical Thinking
 Obtained Originator License, DE, BS, - Attention to Detail
@@ -26,9 +54,10 @@ Mentored co-workers and teammates who had questions or needed help. - Empathize
   </string>
 
   <string name="Creativity_Logic">
-    ****Write a paragraph on how you balnce your creativity and logic in your passion projects.*****
+    ****Write a paragraph on how you balance your creativity and logic in your passion projects.*****
 
-For logic I like to read a lot about new and interesting subjects.
+For logic I like to read a lot about new and interesting subjects. I have a beginners mindset in that I can always
+    learn something new or
 Subjects that interest me are Technology, Computer Science, Astronomy, Physics, Philosophy, All the Science.
 For creativity I like to practic Jiu-Jitsu, Archery, and Painting.
   </string>
